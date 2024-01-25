@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @layla1273
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Python, MySQL, HTML and Linux.
-- 💞️ I’m looking to collaborate on Python challenges
+- 👀 I’m interested in DevOps, Cloud Computing and IT in general.
+- 🌱 I’m currently learning Python, MySQL, Microsoft SQL, Linux and Shell.
+- 💞️ I’m looking to collaborate on CRUD application using Microsoft SQl databases and API's.
 - 📫 How to reach me on my email available on my profile.
 
 <!---
